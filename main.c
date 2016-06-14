@@ -289,5 +289,5 @@ int main()
         if(ret=='0') break;
         MenuProcessAction(ret);
     }
-    printf("您选择了“0——退出”\n");
+    return printf("您选择了“0——退出”\n"),0;
 }
