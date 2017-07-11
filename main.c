@@ -6,7 +6,6 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <conio.h>
 #include <string.h>
 
 #define NUMSTU 3      /*最大学生人数*/
